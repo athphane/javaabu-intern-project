@@ -8,10 +8,7 @@
     background-attachment:scroll;
     box-shadow: inset 0 0 0 1000px rgba(28, 28, 28, 0.74);
     margin-bottom: 0px;
-    
-
 }
-
 
 .hero #hero-title{
     font-family: 'Montserrat', sans-serif;
@@ -23,11 +20,7 @@
     background: -webkit-linear-gradient( #01AAF2, #EA1E63);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
- 
 }
-
-
-
 
 #header #hero-subtitle{
     font-family: 'Montserrat', sans-serif;
@@ -40,9 +33,7 @@
     text-align: center;
     margin: 100px 75px 100px 75px;
     font-family: 'Montserrat', sans-serif;
-
 }
-
 
 #aboutus-header{
     height:35vh;
@@ -52,7 +43,6 @@
     background-position:50%;
     background-attachment:scroll;
     box-shadow: inset 0 0 0 1000px rgba(3, 168, 245, 0.392);
-
 }
 
 #aboutus-header h1 {
@@ -70,7 +60,6 @@
     background-position:50%;
     background-attachment:scroll;
     box-shadow: inset 0 0 0 1000px rgba(235, 30, 98, 0.446);
-
 }
 
 #the-team-header h1 {
@@ -78,7 +67,6 @@
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     font-size: 45px;
-
 }
 
 #services-header{
@@ -89,7 +77,6 @@
     background-position:50%;
     background-attachment:scroll;
     box-shadow: inset 0 0 0 1000px rgba(156, 40, 177, 0.46);
-
 }
 
 #services-header h1 {
@@ -107,8 +94,8 @@
     background-position:50%;
     background-attachment:scroll;
     box-shadow: inset 0 0 0 1000px rgba(63, 81, 181, 0.426);
-
 }
+
 #our-work-header h1 {
     color: white;
     font-family: 'Montserrat', sans-serif;
@@ -125,7 +112,6 @@
     background-attachment:scroll;
     box-shadow: inset 0 0 0 1000px rgba(3, 168, 245, 0.392);
     margin-bottom: 30px;
-
 }
 
 #opportunities-header h1 {
@@ -139,7 +125,6 @@
     font-size: 20px;
     font-family: 'Montserrat', sans-serif;
     color: white;
-
 }
 
 #contactus-header{
@@ -150,14 +135,12 @@
     background-position:50%;
     background-attachment:scroll;
     box-shadow: inset 0 0 0 1000px rgba(213, 57, 109, 0.446);
-
 }
+
 #contactus-header h1 {
     color: white;
     font-family: 'Oxygen', sans-serif;
-
 }
-
 
 #site-navbar{
     margin-bottom: 0;
@@ -178,328 +161,315 @@
     color:#fff;
     text-align:center;
     background: rgba(0, 0, 0, 0.5);}
-
-
-
-.col-md-12{
-    padding-left: 50px;
-    padding-right: 50px;
-}
-
-#carousel-beta{
-    padding: 10px;
-}
-
-#brand-name{
-    size: 12px;
-    padding-left: 50px;
-}
-
-.carousel-inner img{
-    margin: auto;
-}
-
-.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
-    color: red !important;
-    background-color: white;
-}
-
-#section1 {
-    padding-top: 50px;
-}
-
-#section2 {
-    padding-top: 50px;
-}
-#section3 {
-    padding-top: 50px;
-}
-#section41 {
-    padding-top: 50px;
-}
-#section42 {
-    padding-top: 50px;
-}
-
-.about-us, .our-services {
-    margin-bottom: 50px;
-}
-
-#aboutus-pad {
-    padding-top: 20px;
-}
-
-.about-us h1 {
-    text-align: center;
-    font-size: 25px;
-    font-family: 'Lato', sans-serif;
-
-}
-
-.about-us hr {
-    width: 200px;
-    margin-bottom: 10px;
-    border-color: #9c27b0;
-}
-
-.about-us p {
-    font-size: 20px;
-    font-family: 'Montserrat', sans-serif;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 0px;
-}
-
-.our-services h1{
-    text-align: center;
-    font-size: 25px;
-    font-family: 'Montserrat', sans-serif;
-
-}
-
-.our-services h3 {
-    text-align: center;
-    font-size: 24px;
-    font-weight: bold;
-    font-family: 'Montserrat', sans-serif;
-
-}
-
-.our-services hr {
-    width: 200px;
-    margin-bottom: 30px;
-    border-color: #9c27b0;
-}
-
-.our-services {
-    min-height: 100%;
-}
-
-.our-services p {
-    text-align: center;
-    font-size: 20px;
-    font-family: 'Montserrat', sans-serif;
-
-}
-
-.service img{
-    vertical-align: middle;
-}
-
-#logo {
-    margin-top: 53px;
-}
-
-.our-clients {
-    margin-bottom: 15px;
-}
-
-.our-clients h1 {
-    text-align: center;
-    font-size: 25px;
-    font-family: 'Lato', sans-serif;
-}
-
-.our-clients hr {
-    width: 200px;
-    margin-bottom: 30px;
-    border-color: #9c27b0;
-}
-
-.our-team h1 {
-    text-align: center;
-    font-size: 25px;
-    font-family: 'Montserrat', sans-serif;
-}
-
-.our-team hr {
-    width: 200px;
-    margin-bottom: 30px;
-    border-color: #9c27b0;
-}
-
-.our-team h3, .our-team h4 {
-    text-align: center;
-    font-family: 'Montserrat', sans-serif;
-}
-
-.our-team h3 {
-    font-weight: bold;
-}
-
-
-.our-team img {
-    margin: 0 auto;
-}
-
-.our-team {
-    margin-bottom: 30px;
-}
-
-#our-team {
-    margin-bottom: 20px;
-}
-
-
-.test {
-    padding: 35px;
-}
-
-.center-align {
-    margin: 0 auto;
-}
-
-.service {
-    padding: 30px;
-}
-
-.contact-us {
-    font-family: 'Montserrat', sans-serif;
-}
-
-
-.contact-us h1 {
-    text-align: center;
-    font-size: 25px;
-}
-
-.contact-us hr {
-    width: 200px;
-    margin-bottom: 30px;
-    border-color: #9c27b0;
-}
-
-.social {
-    text-align: center;
-}
-
-#jailam-social {
-    padding-right: 40px;
-    padding-left: 40px;
-}
-
-#arushad-social {
-    padding-right: 40px;
-    padding-left: 40px;
-}
-
-#email {
-    text-align: center;
-}
-
-#phonenumbers {
-    text-align: center;
-}
-
-#nav-align-to-text {
-    padding-right: 35px;
-}
-
-#footer p {
-    text-align: center;
-    font-size: 16px;
-    font-weight: bold;
-}
-
-#footer {
-    margin-bottom: 20px;
-    font-family: 'Montserrat', sans-serif;
-
-}
-
-
-#opportunities h1 {
-    text-align: center;
-    font-family: 'Montserrat', sans-serif;
-
-}
-
-#opportunities hr {
-    border-color: rgb(160, 160, 160);
-}
-
-#opportunities {
-    font-family: 'Montserrat', sans-serif;
-}
-
-#opportunities p {
-    font-size: 20px;
-}
-
-#opportunities li {
-    font-size: 16px;
-}
-
-
-#form-name-title {
-    margin-left: 15px;
-}
-
-#form-name {
-    margin-bottom: 5px;
-}
-
-#opportunities h3 {
-    font-weight: bold;
-}
-
-#laravel-details p, #gd-details p, #intern-details p {
-    margin-top: 20px;
-}
-
-#laravel-details h4, #gd-details h4, #intern-details h4 {
-    margin-top: 30px;
-    font-weight: bold;
-}
-
-.academy {
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    margin-top: 30px;
-    margin-bottom: 40px;
-}
-
-#academy-heading-align {
-    margin-top: 20px;
-}
-
-#academy h4 {
-    margin-top: 30px;
-    font-weight: bold;
-}
-
-#academy-last-one-come-one {
-    font-size: 10px;
-}
-
-#academy p {
-    font-size: 20px;
-}
-
-#apply-last-one {
-    margin-bottom: 30px;
-}
-
-
-.navbar-brand { 
-    max-height: 40px;
-    max-width: 30%; 
-    overflow: visible;
-    padding-top: 0;
-    padding-bottom: 0; 
-    margin-top: 9px;
-}
-
-#myNavbar {
-    font-family: 'Montserrat', sans-serif;
-}
-
-.body {
-    font-family: 'Montserrat', sans-serif;
-
-}
-
-#social-links {
-    align-items: center;
-}
+    
+    .col-md-12{
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    
+    #carousel-beta{
+        padding: 10px;
+    }
+    
+    #brand-name{
+        size: 12px;
+        padding-left: 50px;
+    }
+    
+    .carousel-inner img{
+        margin: auto;
+    }
+    
+    .nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+        color: red !important;
+        background-color: white;
+    }
+    
+    #section1 {
+        padding-top: 50px;
+    }
+    
+    #section2 {
+        padding-top: 50px;
+    }
+    #section3 {
+        padding-top: 50px;
+    }
+    #section41 {
+        padding-top: 50px;
+    }
+    #section42 {
+        padding-top: 50px;
+    }
+    
+    .about-us, .our-services {
+        margin-bottom: 50px;
+    }
+    
+    #aboutus-pad {
+        padding-top: 20px;
+    }
+    
+    .about-us h1 {
+        text-align: center;
+        font-size: 25px;
+        font-family: 'Lato', sans-serif;
+    }
+    
+    .about-us hr {
+        width: 200px;
+        margin-bottom: 10px;
+        border-color: #9c27b0;
+    }
+    
+    .about-us p {
+        font-size: 20px;
+        font-family: 'Montserrat', sans-serif;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 0px;
+    }
+    
+    .our-services h1{
+        text-align: center;
+        font-size: 25px;
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    .our-services h3 {
+        text-align: center;
+        font-size: 24px;
+        font-weight: bold;
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    .our-services hr {
+        width: 200px;
+        margin-bottom: 30px;
+        border-color: #9c27b0;
+    }
+    
+    .our-services {
+        min-height: 100%;
+    }
+    
+    .our-services p {
+        text-align: center;
+        font-size: 20px;
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    .service img{
+        vertical-align: middle;
+    }
+    
+    #logo {
+        margin-top: 53px;
+    }
+    
+    .our-clients {
+        margin-bottom: 15px;
+    }
+    
+    .our-clients h1 {
+        text-align: center;
+        font-size: 25px;
+        font-family: 'Lato', sans-serif;
+    }
+    
+    .our-clients hr {
+        width: 200px;
+        margin-bottom: 30px;
+        border-color: #9c27b0;
+    }
+    
+    .our-team h1 {
+        text-align: center;
+        font-size: 25px;
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    .our-team hr {
+        width: 200px;
+        margin-bottom: 30px;
+        border-color: #9c27b0;
+    }
+    
+    .our-team h3, .our-team h4 {
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    .our-team h3 {
+        font-weight: bold;
+    }
+    
+    
+    .our-team img {
+        margin: 0 auto;
+    }
+    
+    .our-team {
+        margin-bottom: 30px;
+    }
+    
+    #our-team {
+        margin-bottom: 20px;
+    }
+    
+    .test {
+        padding: 35px;
+    }
+    
+    .center-align {
+        margin: 0 auto;
+    }
+    
+    .service {
+        padding: 30px;
+    }
+    
+    .contact-us {
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    .contact-us h1 {
+        text-align: center;
+        font-size: 25px;
+    }
+    
+    .contact-us hr {
+        width: 200px;
+        margin-bottom: 30px;
+        border-color: #9c27b0;
+    }
+    
+    .social {
+        text-align: center;
+    }
+    
+    #jailam-social {
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+    
+    #arushad-social {
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+    
+    #email {
+        text-align: center;
+    }
+    
+    #phonenumbers {
+        text-align: center;
+    }
+    
+    #nav-align-to-text {
+        padding-right: 35px;
+    }
+    
+    #footer p {
+        text-align: center;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    
+    #footer {
+        margin-bottom: 20px;
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    #opportunities h1 {
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    #opportunities hr {
+        border-color: rgb(160, 160, 160);
+    }
+    
+    #opportunities {
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    #opportunities p {
+        font-size: 20px;
+    }
+    
+    #opportunities li {
+        font-size: 16px;
+    }
+    
+    
+    #form-name-title {
+        margin-left: 15px;
+    }
+    
+    #form-name {
+        margin-bottom: 5px;
+    }
+    
+    #opportunities h3 {
+        font-weight: bold;
+    }
+    
+    #laravel-details p, #gd-details p, #intern-details p {
+        margin-top: 20px;
+    }
+    
+    #laravel-details h4, #gd-details h4, #intern-details h4 {
+        margin-top: 30px;
+        font-weight: bold;
+    }
+    
+    .academy {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        margin-top: 30px;
+        margin-bottom: 40px;
+    }
+    
+    #academy-heading-align {
+        margin-top: 20px;
+    }
+    
+    #academy h4 {
+        margin-top: 30px;
+        font-weight: bold;
+    }
+    
+    #academy-last-one-come-one {
+        font-size: 10px;
+    }
+    
+    #academy p {
+        font-size: 20px;
+    }
+    
+    #apply-last-one {
+        margin-bottom: 30px;
+    }
+    
+    .navbar-brand { 
+        max-height: 40px;
+        max-width: 30%; 
+        overflow: visible;
+        padding-top: 0;
+        padding-bottom: 0; 
+        margin-top: 9px;
+    }
+    
+    #myNavbar {
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    .body {
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    #social-links {
+        align-items: center;
+    }
